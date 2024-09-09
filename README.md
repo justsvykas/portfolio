@@ -8,7 +8,7 @@ This repository is dedicated to projects I have participated in
 
 **Churn Prediction Model**: While working in Whatagraph I created a churn prediction model to aid Customer Success team to indicate customers which might churn next month.
 
-**Ambulance location model**: 
+[**Ambulance location model**](https://github.com/justsvykas/ambulance_location_model/tree/main): This project was submitted for Modelling course in University of Aberdeen. Our team has used Google API and Wolfram API to determine the best location for extra ambulance station in Aberdeen.
 
 
 
