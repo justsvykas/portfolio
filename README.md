@@ -10,7 +10,8 @@ This repository is dedicated to projects I have participated in
 
 [**Ambulance location model**](https://github.com/justsvykas/ambulance_location_model/tree/main): This project was submitted for Modelling course in University of Aberdeen. Our team has used Google API and Wolfram API to determine the best location for extra ambulance station in Aberdeen.
 
-
+---------------------------------
+[**My notes on FastAI course**](https://colab.research.google.com/drive/1jj00yoKpA6VS0jAGW5SBECQgfcPBphen?usp=sharing) which I am currently participating in.
 
 
 
